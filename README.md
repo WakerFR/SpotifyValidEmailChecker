@@ -14,6 +14,8 @@ En premier nous devons installer les modules requis à l'utilisation de ce scrip
 On va se placer dans le dossier ou y'a le fichier principale ```main.py``` et le lancer
 > cd C:\.......\SpotifyValidEmailChecker
 > python main.py
+# View 
+![exemple](https://cdn.discordapp.com/attachments/889154774929395752/910061554265903115/unknown.png)
 # Credits
 Ce script a été fait par @LeVraiWaker (moi)
-\social[telegram][www.t.me/LeVraiWaker]{M4GWWaker}
+
