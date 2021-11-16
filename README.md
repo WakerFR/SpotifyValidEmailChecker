@@ -8,12 +8,12 @@ Ce script permet de vérifier si une liste d'E-Mail existe sur spotify
 # Utilisations & Commandes
 ## Commandes
 En premier nous devons installer les modules requis à l'utilisation de ce script :
-> pip install requests
-> pip install colorama
+```pip install requests```
+```pip install colorama```
 ## Utilisations
 On va se placer dans le dossier ou y'a le fichier principale ```main.py```
-> cd C:\.......\SpotifyValidEmailChecker\
+``` d C:\.......\SpotifyValidEmailChecker\```
 Et la on va lancer le script :
-> python main.py
+```python main.py```
 # Credits
 Ce script a été fait par @LeVraiWaker (moi)
